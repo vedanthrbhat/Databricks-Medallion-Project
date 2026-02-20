@@ -1,6 +1,6 @@
 # 🥉🥈🥇 Databricks Medallion Architecture – Ecommerce Learning Project
 
----
+[Live Dashboard Link --> (https://dbc-ba8c955b-e181.cloud.databricks.com/embed/dashboardsv3/01f10dcd87801f8890226a567dd402f9?o=2639517554661251))")]
 
 ## 📖 About the Project
 
@@ -54,3 +54,6 @@ Silver Layer
 Gold Layer
 (Structured & Aggregated Data)
 ```
+---
+## Dashboard Screenshot
+<img width="632" height="766" alt="Screenshot 2026-02-19 001907" src="C:\Users\vedan\Pictures\Screenshots\Screenshot 2026-02-20 190814.png" />
