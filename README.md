@@ -56,4 +56,4 @@ Gold Layer
 ```
 ---
 ## Dashboard Screenshot
-<img width="632" height="766" alt="Screenshot 2026-02-19 001907" src="C:\Users\vedan\Pictures\Screenshots\Screenshot 2026-02-20 190814.png" />
+<img width="1917" height="861" alt="Screenshot 2026-02-20 190814" src="https://github.com/user-attachments/assets/a718a64d-4335-497e-a1c1-5e5ba3a8ecc0" />
