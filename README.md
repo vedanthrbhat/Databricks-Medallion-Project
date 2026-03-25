@@ -1,6 +1,6 @@
 # 🥉🥈🥇 Databricks Medallion Architecture – Ecommerce Learning Project
 
-[Live Dashboard Link --> (https://dbc-ba8c955b-e181.cloud.databricks.com/embed/dashboardsv3/01f10dcd87801f8890226a567dd402f9?o=2639517554661251))")]
+[Simple Live Dashboard Link --> ((https://vedanthrbhat.github.io/Databricks-Medallion-Project/)]
 
 ## 📖 About the Project
 
