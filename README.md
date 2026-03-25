@@ -54,6 +54,9 @@ Silver Layer
 Gold Layer
 (Structured & Aggregated Data)
 ```
+
 ---
 ## Dashboard Screenshot
 <img width="1917" height="861" alt="Screenshot 2026-02-20 190814" src="https://github.com/user-attachments/assets/a718a64d-4335-497e-a1c1-5e5ba3a8ecc0" />
+## Simple Notebook Dashboard
+<img width="646" height="698" alt="Screenshot 2026-03-25 192857" src="https://github.com/user-attachments/assets/2402fbda-ad69-4a86-830f-7a7b45c09aa5" />
